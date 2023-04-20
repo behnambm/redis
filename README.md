@@ -22,3 +22,8 @@ This server is compatible with `redis-cli` so it makes it compatible with other 
 To test use can use:
 
 `redis-cli PING`
+
+
+# TODO
+
+- Read port number from command line arguments
