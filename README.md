@@ -19,7 +19,7 @@ This server is compatible with `redis-cli` so it makes it compatible with other 
 ### Run:
 `make run`
 
-To test use can use:
+To test you can use:
 
 `redis-cli PING`
 
